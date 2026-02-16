@@ -1,2 +1,2 @@
-# bookify-updated
+# Bookify
 Created with CodeSandbox
